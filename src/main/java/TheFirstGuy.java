@@ -37,10 +37,9 @@ public class TheFirstGuy {
              @param с Переменная разности чисел
              */
             float c = a-b;
-            System.out.printf("Сумма: %.4f",c);
+            System.out.printf("Разность: %.4f",c);
             scanner.close();
         }
-        scanner.close();
 
     }
 }
